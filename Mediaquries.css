@@ -1,0 +1,46 @@
+@media only screen and (max-width:900px)
+{
+    .bar{
+      display:flex;  
+      font-size: 30px;
+      /* margin-left:80% ; */
+      
+    }
+    ul{
+        display: none;
+    }
+    .btnnav
+    {
+        display: none;
+    }
+
+
+    .pic
+    {
+        /* width: 50%; */
+    }
+    .wh
+    {
+        /* display: flex;
+        justify-content: center;
+        align-items: center; */
+    }
+    .company
+    {
+     margin-left: 300px;
+    }
+    .companyimg
+    {
+        flex-wrap: wrap;
+       
+    }
+    .box
+    {
+        flex-direction: column;
+    }
+    .girl
+    {
+        flex-direction: column;
+        margin-top: 50px;
+    }
+}
